@@ -1,1 +1,3 @@
 e.md
+data/
+docs/
